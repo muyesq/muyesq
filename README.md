@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Feel free to leave me messages at muyesq.cn/secret.
-Welcome to my blog muyesq.cn.
+Feel free to leave me messages at https://muyesq.cn/secret.
+Welcome to my blog https://muyesq.cn.
 
 <!--
 **muyesq/muyesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
