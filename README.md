@@ -1,8 +1,6 @@
 ### 大家好，我是穆野霜泉。👋
 
-欢迎访问我的博客：https://muyesq.cn.  
-Feel free to leave me messages at https://muyesq.cn/secret.  
-
+欢迎访问我的博客：https://muyesq.cn
 
 <!--
 **muyesq/muyesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
