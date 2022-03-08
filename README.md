@@ -1,6 +1,6 @@
-### Hi there 👋
+### 大家好，我是穆野霜泉。👋
 
-Welcome to my blog https://muyesq.cn.  
+欢迎访问我的博客：https://muyesq.cn.  
 Feel free to leave me messages at https://muyesq.cn/secret.  
 
 
